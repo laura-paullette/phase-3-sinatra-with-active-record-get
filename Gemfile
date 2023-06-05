@@ -46,3 +46,4 @@ group :test do
 end
 
 
+# gem 'ffi', '~> 1.15.0'
